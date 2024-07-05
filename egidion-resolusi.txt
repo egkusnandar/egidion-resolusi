@@ -3,3 +3,4 @@ Egi Dion Resolusi 2024-2025
 - Belajar SQL
 - Belajar Tableu
 - Belajar PowerBI
+- Belajar Spreadsheets
